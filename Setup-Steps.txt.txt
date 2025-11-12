@@ -1,0 +1,8 @@
+1. Updated system packages using DNF.
+2. Created new admin user and set password.
+3. Configured SSH key-based login.
+4. Installed Apache (httpd) web server.
+5. Enabled and started Apache service.
+6. Allowed HTTP through FirewallD.
+7. Reloaded firewall.
+8. Verified Apache web page.
